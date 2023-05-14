@@ -4,7 +4,7 @@
 
 [TOC]
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/SnapdragonLee/ChatGPT-weBot)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/najwno/ChatGPT-weBot)
 
 Using ChatGPT-weBot based on ChatGPT(API key call), Stable Diffusion AI drawing and official WeChat hook interface. [中文文档](./Readme_ZH.md) | English
 
@@ -12,10 +12,8 @@ Using ChatGPT-weBot based on ChatGPT(API key call), Stable Diffusion AI drawing 
 
 ###### Author
 
-[Snapdragon Lee (github.com)](https://github.com/SnapdragonLee) 
-
-*cover created from [DALL·E2 (openai.com)](https://labs.openai.com/)*
-
+[Snapdragon Lee (github.com)](https://github.com/najwno) 
+s
 
 
 ## Support & Features
@@ -138,13 +136,13 @@ Using ChatGPT-weBot based on ChatGPT(API key call), Stable Diffusion AI drawing 
 
 ## Who has starred
 
-[![Stargazers repo roster for @SnapdragonLee/ChatGPT-weBot](https://reporoster.com/stars/dark/SnapdragonLee/ChatGPT-weBot)](https://github.com/SnapdragonLee/ChatGPT-weBot/stargazers)
+[![Stargazers repo roster for @najwno/ChatGPT-weBot](https://reporoster.com/stars/dark/najwno/ChatGPT-weBot)](https://github.com/najwno/ChatGPT-weBot/stargazers)
 
 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/SnapdragonLee/ChatGPT-weBot.svg)](https://starchart.cc/SnapdragonLee/ChatGPT-weBot) 
+[![Stargazers over time](https://starchart.cc/najwno/ChatGPT-weBot.svg)](https://starchart.cc/najwno/ChatGPT-weBot) 
 
 
 
